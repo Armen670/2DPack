@@ -1,0 +1,31 @@
+C:\Users\User\source\repos\Kursovayaa\Kursovayaa\obj\Debug\Kursovayaa.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Kursovayaa\Kursovayaa\obj\Debug\Kursovayaa.MainForm.resources
+C:\Users\User\source\repos\Kursovayaa\Kursovayaa\obj\Debug\Kursovayaa.Properties.Resources.resources
+C:\Users\User\source\repos\Kursovayaa\Kursovayaa\obj\Debug\Kursovayaa.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Kursovayaa\Kursovayaa\obj\Debug\Kursovayaa.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kursovayaa\Kursovayaa\bin\Debug\Kursovayaa.exe.config
+C:\Users\User\source\repos\Kursovayaa\Kursovayaa\bin\Debug\Kursovayaa.exe
+C:\Users\User\source\repos\Kursovayaa\Kursovayaa\bin\Debug\Kursovayaa.pdb
+C:\Users\User\source\repos\Kursovayaa\Kursovayaa\obj\Debug\Kursovayaa.exe
+C:\Users\User\source\repos\Kursovayaa\Kursovayaa\obj\Debug\Kursovayaa.pdb
+C:\Users\User\source\repos\Kursovayaa — копия\Kursovayaa\bin\Debug\Kursovayaa.exe.config
+C:\Users\User\source\repos\Kursovayaa — копия\Kursovayaa\bin\Debug\Kursovayaa.exe
+C:\Users\User\source\repos\Kursovayaa — копия\Kursovayaa\bin\Debug\Kursovayaa.pdb
+C:\Users\User\source\repos\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.MainForm.resources
+C:\Users\User\source\repos\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.Properties.Resources.resources
+C:\Users\User\source\repos\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.exe
+C:\Users\User\source\repos\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.pdb
+C:\Users\armen\Downloads\Kursovayaa (версия 2)\Kursovayaa — копия\Kursovayaa\bin\Debug\Kursovayaa.exe.config
+C:\Users\armen\Downloads\Kursovayaa (версия 2)\Kursovayaa — копия\Kursovayaa\bin\Debug\Kursovayaa.exe
+C:\Users\armen\Downloads\Kursovayaa (версия 2)\Kursovayaa — копия\Kursovayaa\bin\Debug\Kursovayaa.pdb
+C:\Users\armen\Downloads\Kursovayaa (версия 2)\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.csproj.AssemblyReference.cache
+C:\Users\armen\Downloads\Kursovayaa (версия 2)\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\armen\Downloads\Kursovayaa (версия 2)\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.MainForm.resources
+C:\Users\armen\Downloads\Kursovayaa (версия 2)\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.Properties.Resources.resources
+C:\Users\armen\Downloads\Kursovayaa (версия 2)\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.csproj.GenerateResource.cache
+C:\Users\armen\Downloads\Kursovayaa (версия 2)\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.csproj.CoreCompileInputs.cache
+C:\Users\armen\Downloads\Kursovayaa (версия 2)\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.exe
+C:\Users\armen\Downloads\Kursovayaa (версия 2)\Kursovayaa — копия\Kursovayaa\obj\Debug\Kursovayaa.pdb
